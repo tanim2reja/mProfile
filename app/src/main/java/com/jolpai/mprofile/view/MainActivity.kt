@@ -1,7 +1,8 @@
-package com.jolpai.mprofile
+package com.jolpai.mprofile.view
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
+import com.jolpai.mprofile.R
 
 class MainActivity : AppCompatActivity() {
 
